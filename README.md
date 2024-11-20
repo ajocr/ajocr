@@ -1,4 +1,4 @@
-## Hey, I'm @ajorc 👋🏾
+## Hey, I'm @ajocr 👋🏾
  
 🌱 Senior studying Computer Science at Drexel University </br>
 ❤️ Interested in fintech, robotics and all things problem-solving. </br>
